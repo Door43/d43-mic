@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mic:home|Door43 (mic)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mic|d43-mic repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mic/archive/master.zip|d43-mic.zip]]
+
+**Recent Changes**
+{{changes>ns = mic}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mic|Ethnologue data]]
+
